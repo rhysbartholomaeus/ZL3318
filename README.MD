@@ -1,5 +1,5 @@
 # Flite TTS - Docker
-This project aims to provide a minimal version of flite that can be deployed via Docker. 
+This project aims to provide a minimal version of [Festvox's Flite](https://github.com/festvox/flite) that can be deployed via Docker. 
 
 This has a very specific use-case. The contaienr hosts a Python Flask server which provides a means of outputting WAV files containing synthesized text. Additional features of Flite are currently non-operational (IE: Playing sound directly). 
 
